@@ -1,0 +1,4 @@
+requirements.txt
+# requirements.txt
+
+# No external dependencies required for this project because it uses only built-in Python libraries.
